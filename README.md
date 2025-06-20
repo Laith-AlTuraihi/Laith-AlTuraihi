@@ -22,9 +22,9 @@ Python | ReactJS
 <h3>📫 How to reach me: 📫</h3>
 ✉️  You can contact me at [alturaihi.laith@gmail.com](mailto:alturaihi.laith@gmail.com) ✉️
 <h3> ⚡ Fun facts: ⚡</h3>
- <p> <li>🎮 I am an avid enjoyer of video games 🎮 </p> </li> <br>
- <p> 🍕 I am a proud  pizza connoisseur 🍕 and I’m on a quest to find the best pizza in the world! </p> <br>
- <p> I speak three languages — Arabic, English and German — some better than others!</p> <br>
+ <p> <li>🎮 I am an avid enjoyer of video games 🎮 </p> </li>
+ <p> 🍕 I am a proud  pizza connoisseur 🍕 and I’m on a quest to find the best pizza in the world! </p> 
+ <p> I speak three languages — Arabic, English and German — some better than others!</p> 
 
 
 
