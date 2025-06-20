@@ -107,11 +107,12 @@
 ---
 
 ### 📫 How to reach me:
+
 <p align="center">
   <span style="color: #6E40C9; font-weight: bold; font-size: 16px;">GMAIL:</span>
   <span style="color: #6E40C9; font-size: 16px;"> alturaihi.laith@gmail.com</span>
 </p>
-
+<p align="center">
   <a href="https://github.com/Laith-AlTuraihi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
