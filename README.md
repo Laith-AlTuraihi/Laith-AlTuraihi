@@ -3,8 +3,10 @@
   
 </h1> 
 <h2 align="center" style="color:purple">🟣I am a self-motivated Data Science Student with passion to learn 🟣</h2>
-
-
+<h2 align="center">🌱 I'm currently learning ReactJS 🌱</h2>
+<h2 align="center">💬 Ask me about 💬</h2>
+<h2 align="center">📫 How to reach me: 📫</h2>
+<h2 align="center">⚡ Fun fact: I am a 🍕 Pizza connoisseur 🍕⚡</h2>
 
 <!--
 **Laith-AlTuraihi/Laith-AlTuraihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
