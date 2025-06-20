@@ -111,13 +111,13 @@
 <p align="center">
 
   <!-- Email with icon + text -->
- <p align="center">
-  <a href="mailto:alturaihi.laith@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<p align="center">
+  <!-- Gmail Icon with Email Text -->
+  <a href="mailto:alturaihi.laith@gmail.com" target="_blank" style="text-decoration: none; display: flex; align-items: center; font-size: 16px;">
+    <img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;">
+    <span style="color: #6E40C9; font-weight: bold;">alturaihi.laith@gmail.com</span>
   </a>
-  <span style="font-weight: bold; color: #6E40C9; font-size: 16px; margin-left: 10px;">alturaihi.laith@gmail.com</span>
 </p>
-  <br><br>
 
   <a href="https://github.com/Laith-AlTuraihi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
