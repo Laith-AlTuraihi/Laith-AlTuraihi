@@ -83,16 +83,29 @@
   </a>
 <h3>📫 How to reach me: 📫</h3>
 
+
   <a href="mailto:alturaihi.laith@gmail.com" target="_blank">
-    <i class="fas fa-envelope fa-2x" style="margin: 10px;"></i>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
+
+
   <a href="https://www.instagram.com/laithalturaihi" target="_blank">
-    <i class="fab fa-instagram fa-2x" style="margin: 10px;"></i>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  
+
+
   <a href="https://discord.com/users/218759921955504129" target="_blank">
-    <i class="fab fa-discord fa-2x" style="margin: 10px;"></i>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/laith-al-turaihi-46074b225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+
+  <a href="https://github.com/Laith-AlTuraihi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
 <h3> ⚡ Fun facts: ⚡</h3>
