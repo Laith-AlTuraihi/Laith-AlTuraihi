@@ -20,7 +20,7 @@
 <h3>📖 I'm currently learning: 📖 </h3>
 Python | ReactJS
 <h3>📫 How to reach me: 📫</h3>
-✉️  You can contact me at [alturaihi.laith@gmail.com](mailto:alturaihi.laith@gmail.com) ✉️
+✉️  You can contact me at alturaihi.laith@gmail.com ✉️
 <h3> ⚡ Fun facts: ⚡</h3>
  <p> <li>🎮 I am an avid enjoyer of video games 🎮 </p> </li>
  <p> 🍕 I am a proud  pizza connoisseur 🍕 and I’m on a quest to find the best pizza in the world! </p> 
