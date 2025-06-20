@@ -4,7 +4,7 @@
 </h1> 
 <div>
 <h2 style="color:purple">🟣I am a self-motivated Data Science Student with passion to learn 🟣</h2>
- <b> GitHub Stats:</b>
+ <b> GitHub Stats:</b> <br>
 <a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-stats.vercel.app/api?username=Laith-AlTuraihi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Laith-AlTuraihi's GitHub stats"/></a>
 
 <a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Laith-AlTuraihi&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
