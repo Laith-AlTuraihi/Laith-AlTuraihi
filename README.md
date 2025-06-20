@@ -6,11 +6,10 @@
 <h3> <b> GitHub Stats:</b> </h3>
 
 
-<a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-stats.vercel.app/api?username=Laith-AlTuraihi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Laith-AlTuraihi's GitHub stats" /></a>
+<a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-stats.vercel.app/api?username=Laith-AlTuraihi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Laith-AlTuraihi's GitHub stats" align="center" /></a>
 
-<a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Laith-AlTuraihi&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Laith-AlTuraihi&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="center"/></a>
 
-<a href="http://www.github.com/Laith-AlTuraihi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Laith-AlTuraihi&bg_color=000000&color=ffffff&line=6366f1&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3> 📔Techstack: 📔 </h3>
 <p> HTML | CSS | JAVASCRIPT | PHP | XML | JSP | C | C++ | JAVA | SQL </p> <br>
