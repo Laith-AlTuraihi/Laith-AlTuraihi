@@ -115,7 +115,7 @@
   <!-- Gmail Icon with Email Text -->
   <a href="mailto:alturaihi.laith@gmail.com" target="_blank" style="text-decoration: none; display: flex; align-items: center; font-size: 16px;">
     <img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;">
-    <span style="color: #6E40C9; font-weight: bold;">alturaihi.laith@gmail.com</span>
+    <span style="color: #6E40C9; font-weight: bold;">:  alturaihi.laith@gmail.com</span>
   </a>
 </p>
 
