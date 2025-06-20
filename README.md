@@ -5,7 +5,6 @@
 
 <h2 align="center" style="color:purple">🟣 I am a self-motivated Data Science Student with passion to learn 🟣</h2>
 
----
 
 ### 📊 GitHub Stats:
 
@@ -24,7 +23,6 @@
   </tr>
 </table>
 
----
 
 ### 📔 Techstack:
 
@@ -72,7 +70,6 @@
 
 </p>
 
----
 
 ### 🤹‍♂️ Skills:
 
@@ -88,7 +85,6 @@
 
 </p>
 
----
 
 ### 📖 I'm currently learning:
 
@@ -132,7 +128,6 @@
   <span style="color: #6E40C9; font-weight: bold; font-size: 16px;">GMAIL:</span>
   <span style="color: #6E40C9; font-size: 16px;"> alturaihi.laith@gmail.com</span>
 </p>
----
 
 ### ⚡ Fun facts:
 
@@ -140,5 +135,4 @@
 - 🍕 Proud pizza connoisseur — on a quest to find the best pizza in the world!  
 - 🌍 I speak three languages: Arabic, English and German — some better than others!  
 
----
 
