@@ -4,14 +4,19 @@
 </h1> 
 <h2 align="center" style="color:purple">🟣I am a self-motivated Data Science Student with passion to learn 🟣</h2> <br> <br>
 
-<h3 align="center">📖 I'm currently learning... 📖 </h3>
+<h3 align="center"> 📔Techstack: 📔 </h3>
+<p> HTML | CSS | JAVASCRIPT | PHP | XML | JSP | C | C++ | JAVA | SQL </p> <br>
+
+<h3 align="center"> 🤹‍♂️ Skills: 🤹‍♂️ </h3>
+<p> Photoshop & Lightroom | </p> <br>
+<h3 align="center">📖 I'm currently learning: 📖 </h3>
 
 <h3 align="center">📫 How to reach me: 📫</h3>
-
-<h3 align="center">⚡ Fun facts: ⚡</h3>
-<p align="center"> 🎮 I am an avid enjoyer of video games 🎮 </p> <br>
-<p align="center"> 🍕 I am a proud  pizza connoisseur 🍕 and I’m on a quest to find the best pizza in the world! </p> <br>
-<p align="center"> I speak three languages — Arabic, English and German — some better than others!</p> <br>
+✉️  You can contact me at [alturaihi.laith@gmail.com](mailto:alturaihi.laith@gmail.com) ✉️
+* <h3 align="center"> ⚡ Fun facts: ⚡</h3>
+* <p align="center"> <li>🎮 I am an avid enjoyer of video games 🎮 </p> </li> <br>
+* <p align="center"> 🍕 I am a proud  pizza connoisseur 🍕 and I’m on a quest to find the best pizza in the world! </p> <br>
+* <p align="center"> I speak three languages — Arabic, English and German — some better than others!</p> <br>
 
 
 
