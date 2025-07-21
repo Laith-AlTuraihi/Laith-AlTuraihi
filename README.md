@@ -125,8 +125,8 @@
 </p>
 
 <p align="center">
-  <span style="color: #6E40C9; font-weight: bold; font-size: 16px;">GMAIL:</span>
-  <span style="color: #6E40C9; font-size: 16px;"> alturaihi.laith@gmail.com</span>
+  <span style="color: #6E40C9; font-weight: bold; font-size: 16px;">OUTLOOK:</span>
+  <span style="color: #6E40C9; font-size: 16px;"> alturaihi.laith@outlook.com</span>
 </p>
 
 ### ⚡ Fun facts:
